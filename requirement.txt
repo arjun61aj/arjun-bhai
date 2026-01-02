@@ -1,0 +1,8 @@
+streamlit
+pandas
+wordcloud
+matplotlib
+scikit-learn
+tweepy
+requests
+feedparser
